@@ -41,7 +41,7 @@ Feature: Adopting puppies
       And I click on Adopt me button
       And I click on Complete adoption button
       And I enter "Sai Mallikarjun" in the Name field
-      And I enter "8290 Neilston Crossing Dr" in the address field
+      And I enter "8396 Gradington Dr" in the address field
       And I enter "svm@testmail.com" in the email field
       And I select "Check" from the pay type drop down
       And I click on Place Order button
