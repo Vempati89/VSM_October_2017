@@ -1,5 +1,5 @@
 class CheckOutPage
-  require_relative 'error_panel'
+  require_relative 'Error_panel'
   include PageObject
   include DataMagic
   include ErrorPanel

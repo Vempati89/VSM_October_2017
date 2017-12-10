@@ -3,4 +3,4 @@ Feature: Learn git
     When test branches
     Then you should see result
 
-    Scenario: Compare braches
+ Scenario: Compare braches

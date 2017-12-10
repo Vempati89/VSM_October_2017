@@ -1,5 +1,5 @@
 class HomePage
-  require_relative 'side_menu_panel'
+  require_relative 'Side_menu_panel'
   include PageObject
   include SideMenuPanel
 
