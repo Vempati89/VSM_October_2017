@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="686eb7cf-5f15-401a-8282-7cd2e5cdaa09" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/data/default.yml" />
+    <list default="true" id="686eb7cf-5f15-401a-8282-7cd2e5cdaa09" name="Default" comment="Config folder was added">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/VSM_October_2017.iml" afterPath="$PROJECT_DIR$/.idea/VSM_October_2017.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/step_definitions/Adopt_puppes.rb" afterPath="$PROJECT_DIR$/features/step_definitions/Adopt_puppes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/support/hooks.rb" afterPath="$PROJECT_DIR$/features/support/hooks.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,7 +15,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/VSM_October_2017@Adopt_puppies_feature.coverage" NAME="Adopt_puppies.feature Coverage Results" MODIFIED="1512872504195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="VSM_October_2017" />
+    <SUITE FILE_PATH="coverage/VSM_October_2017@Scenario__Name_is_a_required_field__1_.coverage" NAME="Scenario: Name is a required field (1) Coverage Results" MODIFIED="1513130402270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="VSM_October_2017" />
+    <SUITE FILE_PATH="coverage/VSM_October_2017@Scenario__Adopting_two_puppies__2_.coverage" NAME="Scenario: Adopting two puppies (2) Coverage Results" MODIFIED="1513133182180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="VSM_October_2017" />
+    <SUITE FILE_PATH="coverage/VSM_October_2017@Scenario__Adopting_two_puppies__3_.coverage" NAME="Scenario: Adopting two puppies (3) Coverage Results" MODIFIED="1513133195228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="VSM_October_2017" />
+    <SUITE FILE_PATH="coverage/VSM_October_2017@Scenario__Name_is_a_required_field.coverage" NAME="Scenario: Name is a required field Coverage Results" MODIFIED="1512872929355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="VSM_October_2017" />
+    <SUITE FILE_PATH="coverage/VSM_October_2017@Scenario__Adopting_a_puppy.coverage" NAME="Scenario: Adopting a puppy Coverage Results" MODIFIED="1513132893832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="VSM_October_2017" />
+    <SUITE FILE_PATH="coverage/VSM_October_2017@Scenario__Adopting_two_puppies__4_.coverage" NAME="Scenario: Adopting two puppies (4) Coverage Results" MODIFIED="1513133324175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="VSM_October_2017" />
+    <SUITE FILE_PATH="coverage/VSM_October_2017@Adopt_puppies_feature.coverage" NAME="Adopt_puppies.feature Coverage Results" MODIFIED="1513130544160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="VSM_October_2017" />
+    <SUITE FILE_PATH="coverage/VSM_October_2017@test.coverage" NAME="test Coverage Results" MODIFIED="1512873647225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/support/pages" MODULE_NAME="VSM_October_2017" />
+    <SUITE FILE_PATH="coverage/VSM_October_2017@Scenario__Adopting_two_puppies.coverage" NAME="Scenario: Adopting two puppies Coverage Results" MODIFIED="1513133069104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="VSM_October_2017" />
+    <SUITE FILE_PATH="coverage/VSM_October_2017@Scenario__Adopting_two_puppies__1_.coverage" NAME="Scenario: Adopting two puppies (1) Coverage Results" MODIFIED="1513133158350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="VSM_October_2017" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
@@ -30,14 +41,54 @@
       <file leaf-file-name="Adopt_puppies.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/Adopt_puppies.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+            <state relative-caret-position="341">
+              <caret line="66" column="21" lean-forward="true" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Adopt_puppes.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/features/step_definitions/Adopt_puppes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Home_Page.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/support/pages/Home_Page.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile.lock" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/support/pages/test.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/data/default.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -47,11 +98,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="learngit.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/features/learngit.feature">
+      <file leaf-file-name="hooks.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/support/hooks.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -73,6 +134,11 @@
       <list>
         <option value="$PROJECT_DIR$/features/Adopt_puppies.feature" />
         <option value="$PROJECT_DIR$/features/learngit.feature" />
+        <option value="$PROJECT_DIR$/Gemfile.lock" />
+        <option value="$PROJECT_DIR$/features/support/pages/test.rb" />
+        <option value="$PROJECT_DIR$/features/support/hooks.rb" />
+        <option value="$PROJECT_DIR$/features/Bank.feature" />
+        <option value="$PROJECT_DIR$/features/step_definitions/Adopt_puppes.rb" />
       </list>
     </option>
   </component>
@@ -103,8 +169,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,18 +181,20 @@
             <path>
               <item name="VSM_October_2017" type="b2602c69:ProjectViewProjectNode" />
               <item name="VSM_October_2017" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VSM_October_2017" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VSM_October_2017" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="VSM_October_2017" type="b2602c69:ProjectViewProjectNode" />
               <item name="VSM_October_2017" type="462c0819:PsiDirectoryNode" />
               <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VSM_October_2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VSM_October_2017" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -136,7 +204,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../test_puppies" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2606973" />
   </component>
@@ -160,8 +228,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber.Adopt_puppies.feature">
-    <configuration name="Adopt_puppies.feature" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+  <component name="RunManager" selected="Cucumber.Scenario: Adopting two puppies (4)">
+    <configuration name="Scenario: Adopting two puppies (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="VSM_October_2017" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -172,7 +240,7 @@
       <envs>
         <env name="JRUBY_OPTS" value="-X+O" />
       </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
@@ -180,7 +248,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/Adopt_puppies.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Adopting two puppies$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -192,9 +260,144 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
     </configuration>
+    <configuration name="Scenario: Adopting two puppies (2)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="VSM_October_2017" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/Adopt_puppies.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Adopting two puppies$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+    </configuration>
+    <configuration name="Scenario: Adopting two puppies (3)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="VSM_October_2017" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/Adopt_puppies.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Adopting two puppies$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+    </configuration>
+    <configuration name="Scenario: Adopting two puppies (4)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="VSM_October_2017" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/Adopt_puppies.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Adopting two puppies$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+    </configuration>
+    <configuration name="Scenario: Adopting two puppies" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="VSM_October_2017" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/Adopt_puppies.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Adopting two puppies$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Cucumber.Scenario: Adopting two puppies" />
+      <item index="1" class="java.lang.String" itemvalue="Cucumber.Scenario: Adopting two puppies (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Cucumber.Scenario: Adopting two puppies (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Cucumber.Scenario: Adopting two puppies (3)" />
+      <item index="4" class="java.lang.String" itemvalue="Cucumber.Scenario: Adopting two puppies (4)" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Cucumber.Adopt_puppies.feature" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Cucumber.Scenario: Adopting two puppies (4)" />
+        <item index="1" class="java.lang.String" itemvalue="Cucumber.Scenario: Adopting two puppies (3)" />
+        <item index="2" class="java.lang.String" itemvalue="Cucumber.Scenario: Adopting two puppies (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Cucumber.Scenario: Adopting two puppies (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Cucumber.Scenario: Adopting two puppies" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +418,8 @@
       <workItem from="1512871301605" duration="102000" />
       <workItem from="1512871550437" duration="60000" />
       <workItem from="1512871625569" duration="94000" />
-      <workItem from="1512872165477" duration="502000" />
+      <workItem from="1512872165477" duration="1674000" />
+      <workItem from="1513129264820" duration="4101000" />
     </task>
     <task id="LOCAL-00001" summary="Updated the address in one of the scenarios and added learngitrb file">
       <created>1510438103146</created>
@@ -252,19 +456,50 @@
       <option name="project" value="LOCAL" />
       <updated>1512871703424</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Config folder was added">
+      <created>1512872696021</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1512872696021</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Adopt_puppies_feature - 2017.12.09 at 21h 22m 22s.xml">
+    <history-entry file="Adopt_puppies_feature - 2017.12.12 at 21h 04m 18s.xml">
       <configuration name="Adopt_puppies.feature" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Adopt_puppies_feature - 2017.12.09 at 21h 22m 47s.xml">
-      <configuration name="Adopt_puppies.feature" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="Scenario__Adopting_a_puppy - 2017.12.12 at 21h 42m 07s.xml">
+      <configuration name="Scenario: Adopting a puppy" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Adopting_two_puppies - 2017.12.12 at 21h 44m 49s.xml">
+      <configuration name="Scenario: Adopting two puppies" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Adopting_two_puppies_(1) - 2017.12.12 at 21h 46m 14s.xml">
+      <configuration name="Scenario: Adopting two puppies (1)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Adopting_two_puppies_(2) - 2017.12.12 at 21h 46m 27s.xml">
+      <configuration name="Scenario: Adopting two puppies (2)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Adopting_two_puppies_(3) - 2017.12.12 at 21h 46m 50s.xml">
+      <configuration name="Scenario: Adopting two puppies (3)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Adopting_two_puppies_(4) - 2017.12.12 at 21h 49m 03s.xml">
+      <configuration name="Scenario: Adopting two puppies (4)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Name_is_a_required_field_(1) - 2017.12.12 at 20h 57m 59s.xml">
+      <configuration name="Scenario: Name is a required field (1)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Name_is_a_required_field_(1) - 2017.12.12 at 20h 59m 41s.xml">
+      <configuration name="Scenario: Name is a required field (1)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Name_is_a_required_field_(1) - 2017.12.12 at 21h 00m 13s.xml">
+      <configuration name="Scenario: Name is a required field (1)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4825000" />
+    <option name="totallyTimeSpent" value="10098000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="all">
@@ -274,13 +509,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15682063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21106337" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.49785176" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32918552" sideWeight="0.22395274" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32918552" sideWeight="0.22717509" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.7282492" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32918552" sideWeight="0.7760473" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32918552" sideWeight="0.77282494" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -303,13 +539,46 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated the address in one of the scenarios and added learngitrb file" />
     <MESSAGE value="Moved Project from C to E in local" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved Project from C to E in local" />
+    <MESSAGE value="Config folder was added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Config folder was added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/features/xml_scenarios.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/Adopt_puppies.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/data/default.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/hooks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/features/xml_scenarios.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -330,7 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -354,7 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -378,7 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -402,7 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -440,7 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -485,7 +749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -494,13 +757,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/pages/Home_Page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -582,15 +838,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/Adopt_puppies.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -598,6 +845,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/pages/test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/hooks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/Bank.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/Adopt_puppies.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="66" column="21" lean-forward="true" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/pages/Home_Page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/Adopt_puppes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding />
         </state>
       </provider>
